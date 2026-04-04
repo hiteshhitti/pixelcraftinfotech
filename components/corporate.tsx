@@ -33,7 +33,7 @@ const features = [
 
 const stats = [
   { icon: Users, value: "10,000+", label: "Professionals Trained" },
-  { icon: Building2, value: "500+", label: "Corporate Clients" },
+  { icon: Building2, value: "50+", label: "Corporate Clients" },
   { icon: Award, value: "95%", label: "Satisfaction Rate" },
 ]
 
@@ -258,7 +258,7 @@ export function Corporate() {
                 ))}
               </div>
 
-              <div className="mt-12 pt-8 border-t border-border">
+              {/* <div className="mt-12 pt-8 border-t border-border">
                 <blockquote className="text-foreground italic text-lg">
                   &ldquo;PixelCraft Infotech transformed our team&apos;s capabilities. Their AI and ML training 
                   program was exactly what we needed to stay competitive.&rdquo;
@@ -266,7 +266,7 @@ export function Corporate() {
                 <p className="mt-4 text-muted-foreground">
                   — Sarah Chen, CTO at Innovate Corp
                 </p>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

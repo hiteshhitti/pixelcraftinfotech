@@ -54,7 +54,7 @@ export function Partners() {
         </div>
 
         {/* CTA Section */}
-        <div className="mt-16 bg-secondary rounded-2xl p-8 lg:p-12">
+        {/* <div className="mt-16 bg-secondary rounded-2xl p-8 lg:p-12">
           <div className="grid lg:grid-cols-3 gap-8 items-center">
             <div className="lg:col-span-2">
               <h3 className="text-2xl lg:text-3xl font-bold text-foreground mb-4">
@@ -71,7 +71,7 @@ export function Partners() {
               </button>
             </div>
           </div>
-        </div>
+        </div> */}
 
       </div>
     </section>
