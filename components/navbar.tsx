@@ -16,6 +16,7 @@ import {
 const navLinks = [
   { href: "#programs", label: "Programs" },
   { href: "#corporate", label: "Corporate Training" },
+  { href: "/data-analytics", label: "Data Analytics" }, 
   { href: "#partners", label: "Partners" },
   { href: "#about", label: "About" },
 ]
